@@ -20,6 +20,13 @@ Here is a list of notable projects I have worked on so far:
 [![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)](https://html.spec.whatwg.org)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)](https://www.css3.com)
 --
+
+#### Version Control Systems/Platforms
+[![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com)
+[![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=for-the-badge)](https://about.gitlab.com)
+--
+
 #### Operating Systems
 [![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://www.apple.com/macos/ventura/)
 [![iOS](https://img.shields.io/badge/-iOS-black?logo=ios&style=for-the-badge)](https://www.apple.com/ios/ios-16/)
