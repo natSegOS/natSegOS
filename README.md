@@ -10,6 +10,7 @@ Here is a list of notable projects I have worked on so far:
 [![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)](https://www.python.org)
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://www.swift.org)
 [![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=for-the-badge)](https://www.dart.dev)
+[![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://www.gnu.org/software/bash/)
 --
 #### Technologies & Frameworks
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=swiftui&style=for-the-badge)](https://developer.apple.com/xcode/swiftui)
@@ -19,7 +20,9 @@ Here is a list of notable projects I have worked on so far:
 [![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)](https://www.css3.com)
 --
 #### Operating Systems
-[![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://support.apple.com/macos)
+[![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://www.apple.com/macos/ventura/)
+[![iOS](https://img.shields.io/badge/-iOS-black?logo=ios&style=for-the-badge)](https://www.apple.com/ios/ios-16/)
+[![Windows](https://img.shields.io/badge/-Windows-black?logo=windows&style=for-the-badge)](https://www.microsoft.com/en-us/windows/windows-11)
   
 <!--
 **natSegOS/natSegOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
