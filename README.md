@@ -10,6 +10,7 @@ Here is a list of notable projects I have worked on so far:
 [![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)](https://www.python.org)
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://www.swift.org)
 [![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=for-the-badge)](https://www.dart.dev)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://www.gnu.org/software/bash/)
 --
 #### Technologies & Frameworks
