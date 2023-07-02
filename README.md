@@ -10,15 +10,12 @@ Here is a list of notable projects I have worked on so far:
 [![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)](https://github.com/natSegOS)
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://github.com/natSegOS)
 [![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=for-the-badge)](https://github.com/natSegOS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)](https://github.com/natSegOS)
 [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://github.com/natSegOS)
 --
 #### Technologies & Frameworks
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=swiftui&style=for-the-badge)](https://github.com/natSegOS)
 [![UIKit](https://img.shields.io/badge/-UIKit-black?logo=uikit&style=for-the-badge)](https://github.com/natSegOS)
 [![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=for-the-badge)](https://github.com/natSegOS)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)](https://github.com/natSegOS)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)](https://github.com/natSegOS)
 --
 
 #### Version Control Systems/Platforms
