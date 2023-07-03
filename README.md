@@ -3,7 +3,7 @@ I am an aspiring software engineer, aspiring artificial intelligence engineer, a
 
 ### Projects
 Here is a list of notable projects I have worked on so far:
-- FatKat
+- [FatKat](https://fatkat-app.com)
 
 ### Skills
 #### Programming Languages
@@ -28,7 +28,7 @@ Here is a list of notable projects I have worked on so far:
 [![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://www.apple.com/macos/ventura/)
 [![iOS](https://img.shields.io/badge/-iOS-black?logo=ios&style=for-the-badge)](https://www.apple.com/ios/ios-16/)
 [![Windows](https://img.shields.io/badge/-Windows-black?logo=windows&style=for-the-badge)](https://www.microsoft.com/en-us/windows/windows-11)
-  
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?logo=kali-linux&style=for-the-badge)](https://github.com/natSegOS)
 <!--
 **natSegOS/natSegOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
