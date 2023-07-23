@@ -3,7 +3,7 @@ I am an aspiring software engineer, aspiring artificial intelligence engineer, a
 
 ### Projects
 Here is a list of notable projects I have worked on so far:
-- [FatKat](https://fatkat-app.com)
+- [FatKat (Board game money manager)](https://fatkat-app.com)
 
 ### Skills
 #### Programming Languages
