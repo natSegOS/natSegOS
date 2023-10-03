@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an aspiring software engineer, aspiring artificial intelligence engineer, and aspiring theoretical physicist.
+I am an aspiring artificial intelligence engineer and aspiring theoretical physicist.
 
 ### Projects
 Here is a list of notable projects I have worked on so far:
