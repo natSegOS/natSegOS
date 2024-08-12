@@ -11,6 +11,7 @@ Here is a list of notable projects I have worked on so far:
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://github.com/natSegOS)
 [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://github.com/natSegOS)
 [![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)](https://github.com/natSegOS)
+[![C++](https://img.shields.io/badge/-C++-black?logo=c++&style=for-the-badge)](https://github.com/natSegOS)
 --
 #### Technologies & Frameworks
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=swiftui&style=for-the-badge)](https://github.com/natSegOS)
