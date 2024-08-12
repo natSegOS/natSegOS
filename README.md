@@ -16,6 +16,7 @@ Here is a list of notable projects I have worked on so far:
 #### Technologies & Frameworks
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=swiftui&style=for-the-badge)](https://github.com/natSegOS)
 [![UIKit](https://img.shields.io/badge/-UIKit-black?logo=uikit&style=for-the-badge)](https://github.com/natSegOS)
+[![Metal](https://img.shields.io/badge/-Metal-black?logo=metal&style=for-the-badge)](https://github.com/natSegOS)
 --
 #### Operating Systems
 [![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://www.apple.com/macos/ventura/)
