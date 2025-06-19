@@ -13,7 +13,6 @@ Here is a list of notable projects I have worked on so far:
 [![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)](https://github.com/natSegOS)
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://github.com/natSegOS)
 [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://github.com/natSegOS)
-[![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)](https://github.com/natSegOS)
 [![C++](https://img.shields.io/badge/-C++-black?logo=c++&style=for-the-badge)](https://github.com/natSegOS)
 --
 #### Technologies & Frameworks
@@ -24,7 +23,6 @@ Here is a list of notable projects I have worked on so far:
 #### Operating Systems
 [![macOS](https://img.shields.io/badge/-macOS-black?logo=macos&style=for-the-badge)](https://www.apple.com/macos/ventura/)
 [![iOS](https://img.shields.io/badge/-iOS-black?logo=ios&style=for-the-badge)](https://www.apple.com/ios/ios-16/)
-[![Windows](https://img.shields.io/badge/-Windows-black?logo=windows&style=for-the-badge)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?logo=kali-linux&style=for-the-badge)](https://github.com/natSegOS)
 <!--
 **natSegOS/natSegOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
