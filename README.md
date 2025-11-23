@@ -1,8 +1,9 @@
 ### Hi there 👋
-I am an aspiring artificial intelligence engineer and wish to specialize in SIGINT/RF.
+I am an electrical engineering student and aspiring artificial intelligence engineer. I am currently participating in the NASA L'SPACE Mission Concept Academy as an electrical engineer, working on basic robotics and embedded systems, and building games in Unity.
 
 ### Certifications
 - [MATLAB Onramp - MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=34280f78-e50a-4dba-88ef-09ced0e44650&)
+- Siemens NX (in progress)
 
 ### Projects
 Here is a list of notable projects I have worked on so far:
