@@ -23,7 +23,8 @@ I recently completed NASA's L'SPACE Mission Concept Academy, where I worked on s
 [![Swift](https://img.shields.io/badge/-Swift-black?logo=swift&style=for-the-badge)](https://github.com/natSegOS)
 [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)](https://github.com/natSegOS)
 
---
+---
+
 ### Embedded
 - ESP32
 - GPIO
@@ -31,9 +32,10 @@ I recently completed NASA's L'SPACE Mission Concept Academy, where I worked on s
 - SPI
 - UART
 
---
+---
+
 #### Tools
-[![Unity]https://img.shields.io/badge/-unity-black?logo=unity&style=for-the-badge)](https://github.com/natSegOS)
+[![Unity](https://img.shields.io/badge/-unity-black?logo=unity&style=for-the-badge)](https://github.com/natSegOS)
 [![Git](https://img.shields.io/badge/-git-black?logo=git&style=for-the-badge)](https://github.com/natSegOS)
 [![Linux](https://img.shields.io/badge/-linux-black?logo=linux&style=for-the-badge)](https://github.com/natSegOS)
 [![MATLAB](https://img.shields.io/badge/-matlab-black?logo=wolframmathematica&style=for-the-badge)](https://github.com/natSegOS)
