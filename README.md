@@ -13,7 +13,7 @@ I recently completed NASA's L'SPACE Mission Concept Academy, where I worked on s
 *(Pinned below)*
 
 - **ESP32 Sensor & Control Platform** - Embedded firmware for sensor integration and device control
-- **Drone Swarm Simulation** - Unity-based simulation exploring coordination and control of multiple agents
+- **Drone Swarm Simulation (in progress)** - Unity-based simulation exploring coordination and control of multiple agents
 
 ## Skills
 ### Programming Languages
