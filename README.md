@@ -12,7 +12,7 @@ I recently completed NASA's L'SPACE Mission Concept Academy, where I worked on s
 ## 📌 Featured Projects
 *(Pinned below)*
 
-- **ESP32 Sensor & Control Platform** - Embedded firmware for sensor integration and device control
+- **ESP32 Tap-to-MIDI** - Plays a musical note on a MIDI based on tap timing
 - **Drone Swarm Simulation (in progress)** - Unity-based simulation exploring coordination and control of multiple agents
 
 ## Skills
