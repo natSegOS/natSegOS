@@ -34,7 +34,6 @@ I recently completed NASA's L'SPACE Mission Concept Academy, where I worked on s
 [![Unity](https://img.shields.io/badge/-unity-black?logo=unity&style=for-the-badge)](https://github.com/natSegOS)
 [![Git](https://img.shields.io/badge/-git-black?logo=git&style=for-the-badge)](https://github.com/natSegOS)
 [![Linux](https://img.shields.io/badge/-linux-black?logo=linux&style=for-the-badge)](https://github.com/natSegOS)
-[![MATLAB](https://img.shields.io/badge/-matlab-black?logo=wolframmathematica&style=for-the-badge)](https://github.com/natSegOS)
 [![Siemens NX](https://img.shields.io/badge/-siemens%20NX-black?logo=siemens&style=for-the-badge)](https://github.com/natSegOS)
 
 ## Contact
